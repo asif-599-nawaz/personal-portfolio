@@ -1,0 +1,185 @@
+body{
+  
+    margin: 0%;
+}
+h2{
+    color: purple;
+   
+}
+h1{
+    color: lightcoral;
+}
+
+p{
+    font-family: 'Amita', cursive;
+}
+
+a{
+    color: violet,yellow,royalblue;
+    font-size: 15px;
+
+}
+
+.firstpart{
+    width: 30%;
+    padding-left: 5%;
+    margin-left: 2%;
+    float: left;
+    
+    
+}
+.firstpart img{
+   height: 250px;
+   
+   width: 100%;
+   margin-top: 2%;
+
+   border-radius: 10px;
+   
+}
+
+.header-bg{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow,orangered,pink);
+    padding: 10px 20px;
+    border-radius: 3px;
+    color:black;
+}
+
+.amb{
+    color: orchid;
+}
+
+
+#secondpartimage{
+    height: 450px;
+   
+   width: 100%;
+   margin-top: 2%;
+   margin-left: 2%;
+   border-radius: 10px;
+
+}
+
+#secondpart{
+    width: 30%;
+    padding-left: 7%;
+    margin-left: 5%;
+    float: left;
+    
+    
+}
+
+
+.biography-bg{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+
+
+.my-latest-work{
+    color: palevioletred;
+    text-align:center ;
+    
+}
+
+
+
+.work-1{
+    height: 250px;
+    width: 25%;
+    padding: 10px;
+    float: left;
+    margin-left: 5%;
+    border-radius: 20px;
+    
+}
+
+
+.work-3{
+    height: 250px;
+    width: 25%;
+    padding: 10px;
+    float: right;
+    margin-right: 5%;
+    border-radius: 20px;
+}
+
+
+.latest-work-bg{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+
+}
+
+.last-part{
+    text-align: center;
+    color: springgreen;
+}
+
+.last-part-link{
+                
+                
+            
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 221),rgba(0, 255, 255, 0.808),rgba(255, 255, 255, 0.075));
+    padding: 10px 20px;
+    border-radius: 3px;
+    color:black;
+    width: 50%;
+    margin-left: 40%;
+
+
+}
+
+.lastpara{
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+font-family: 'Tinos', serif;
+}
+
+.box-model{
+    border: 2px ridge burlywoods;
+    height: 40%;
+    width: 50%;
+    margin-left: 25%;
+    
+     
+
+    border-radius: 10px;
+    background-color:blanchedalmond;
+}
+
+#msg{
+    color: salmon;
+
+}
+#gmail{
+    color:royalblue;
+}
+
+.last-p{
+    text-align: center;
+    color: black;
+}
+
+
+.footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
