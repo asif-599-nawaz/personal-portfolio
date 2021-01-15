@@ -15,8 +15,15 @@ p{
 }
 
 a{
+    
 
     font-size: 15px;
+
+}
+
+#design:hover{
+    color: fuchsia;
+    font-size: 20px;
 
 }
 
@@ -153,10 +160,10 @@ font-family: 'Tinos', serif;
     width: 50%;
     margin-left: 25%;
     
-     
-
+    box-shadow: 10px 10px 10px crimson;
     border-radius: 10px;
     background-color:blanchedalmond;
+ 
 }
 
 #msg{
